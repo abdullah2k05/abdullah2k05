@@ -45,20 +45,24 @@ I also work as a **Social Media Marketer** running my own SMM panel — [smmriva
 
 > 💡 _Currently learning Mongoose and React.js (Day 13 of my MERN journey!)_
 
----
-
-## 📂 My GitHub Repositories
+---## 📂 My GitHub Repositories
 
 > Here are some of my projects and practice repos:
 
-- [**MERN-Journey**](https://github.com/muhammadabdullah/MERN-Journey)  
-  _My daily progress and code while learning the MERN stack._
+- [**Mern-Authentication**](https://github.com/abdullah2k05/Mern-Authentication)  
+  _A complete authentication system built with MongoDB, Express.js, React, and Node.js._
 
-- [**Data-Science-Projects**](https://github.com/muhammadabdullah/Data-Science-Projects)  
-  _Collection of data analysis and visualization projects._
+- [**Todo-App**](https://github.com/abdullah2k05/Todo-App)  
+  _A simple and interactive to-do list web app to manage daily tasks._
 
-- [**SMM-Panel-Automation**](https://github.com/muhammadabdullah/SMM-Panel-Automation)  
-  _Automation scripts related to my SMM business._
+- [**pucit-gpa-calculator**](https://github.com/abdullah2k05/pucit-gpa-calculator)  
+  _A GPA calculator built to help PUCIT students compute semester GPAs easily._
+
+- [**calculator-api**](https://github.com/abdullah2k05/calculator-api)  
+  _A basic calculator REST API built using Node.js and Express._
+
+- [**Email-Extractor**](https://github.com/abdullah2k05/Email-Extractor)  
+  _A Python script that extracts email addresses from text or files._
 
 ---
 
