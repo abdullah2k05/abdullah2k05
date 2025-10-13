@@ -45,7 +45,9 @@ I also work as a **Social Media Marketer** running my own SMM panel — [smmriva
 
 > 💡 _Currently learning Mongoose and React.js (Day 13 of my MERN journey!)_
 
----## 📂 My GitHub Repositories
+---
+
+## 📂 My GitHub Repositories
 
 > Here are some of my projects and practice repos:
 
@@ -70,7 +72,8 @@ I also work as a **Social Media Marketer** running my own SMM panel — [smmriva
 
 ![Muhammad Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadabdullah&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullah&layout=compact&theme=radical)
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullah&layout=compact&theme=radical) -->
 
 ---
 
