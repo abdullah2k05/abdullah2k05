@@ -25,6 +25,7 @@
 **Full Name:** Muhammad Abdullah  
 **University:** University of the Punjab, PUCIT Lahore  
 **Department:** BS Data Science
+**Age:** 20
 
 Hey there! 👋  
 I’m a passionate **Data Science student** and an aspiring **Full Stack Developer** currently diving deep into the **MERN stack**.  
