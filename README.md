@@ -139,7 +139,7 @@ Beyond code, I lead teams, mentor juniors as a **Teacher Assistant**, and captur
 | 📧 Email | [abdullah@mabdullah.top](mailto:abdullah@mabdullah.top) |
 | 💼 LinkedIn | [linkedin.com/in/abdullah2k05](https://linkedin.com/in/abdullah2k05) |
 | 📸 Instagram | [@mabdullah.dng](https://instagram.com/mabdullah.dng) |
-| 📞 Phone | +92 301 6917982 |
+
 
 ---
 
