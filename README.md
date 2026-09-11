@@ -1,376 +1,421 @@
-<p align="center">
-  <img src="https://github.com/abdullah2k05.png" width="150" style="border-radius: 50%;" alt="Muhammad Abdullah"/>
-</p>
+<div align="center">
 
-<h1 align="center">Muhammad Abdullah</h1>
+<a href="https://github.com/abdullah2k05">
+  <img src="https://github.com/abdullah2k05.png?size=600" width="220" alt="Muhammad Abdullah"/>
+</a>
 
-<h3 align="center">Full-Stack Product Engineer · AI/ML & RAG Developer · Data Science Student</h3>
+# Muhammad Abdullah
 
-<p align="center">
-  I build practical software at the intersection of <strong>AI, data, and full-stack engineering</strong> — from RAG-powered applications and intelligent data products to scalable web, mobile, and real-time systems.
-</p>
+### Full-Stack Product Engineer · AI/ML & RAG Developer · Data Science Student
 
-<p align="center">
-  I'm interested in understanding how systems work, building products from the ground up, and turning ideas into software that people can actually use.
-</p>
+I build practical software at the intersection of **AI, data, and full-stack engineering**.
 
-<p align="center">
-  <strong>Currently focused on:</strong> AI Engineering · RAG Systems · Data Science · Full-Stack Development · Systems Programming · Open Source
-</p>
+I enjoy understanding how systems work, turning ideas into useful products, and learning by building things from the ground up.
 
-<p align="center">
-  <a href="https://mabdullah.top">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/abdullah2k05/">LinkedIn</a> ·
-  <a href="mailto:abdullah@mabdullah.top">Email</a> ·
-  <a href="https://github.com/abdullah2k05">GitHub</a>
-</p>
+<br/>
 
----
+<a href="https://mabdullah.top">
+  <img src="https://img.shields.io/badge/Portfolio-mabdullah.top-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/abdullah2k05">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Abdullah-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:abdullah@mabdullah.top">
+  <img src="https://img.shields.io/badge/Email-abdullah%40mabdullah.top-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-## 🚀 Currently Building
-
-### Tazkir — Islamic Reminder & Spiritual Companion
-
-An offline-first mobile application designed around daily reminders, prayer tracking, Qibla, adhkar, Islamic content, and personal reflection.
-
-- Built with React Native, Expo, and TypeScript
-- Offline-first architecture with local notifications
-- Designed and shipped for Android
-- Focused on privacy, simplicity, and minimal dependencies
-
-**[Live Website](https://mytazkir.com)** · **[View Repository](#)**
+</div>
 
 ---
 
-## 🧠 What I Build
-
-| Area | What I Work With |
-|---|---|
-| **AI / Machine Learning** | RAG, GraphRAG, Scikit-learn, supervised & unsupervised learning, regression, classification, decision trees, random forests, AI API integration |
-| **AI Engineering** | LLM applications, embeddings, semantic search, prompt engineering, intelligent applications |
-| **Backend** | Node.js, Express, Hono, Django, REST APIs |
-| **Databases** | PostgreSQL, Supabase, MongoDB, SQL, pgvector |
-| **Frontend** | React, Next.js, TypeScript, JavaScript |
-| **Mobile** | React Native, Expo, Capacitor |
-| **Data Science** | Python, Pandas, NumPy, data analysis, visualization, Power BI |
-| **Systems** | C++, Linux, Assembly, operating-system concepts |
-| **Engineering Tools** | Git, GitHub, Postman, VS Code, Docker |
-
----
-
-## ⭐ Featured Work
-
-### GitHub Reader AI
-
-**GraphRAG-powered GitHub repository intelligence agent.**
-
-Built an AI-powered repository analysis system that combines **hybrid retrieval, semantic search, GraphRAG, and multi-hop reasoning** to provide evidence-grounded analysis of complex codebases.
-
-**Stack:** Node.js · Express · GraphRAG · Supabase · PostgreSQL · pgvector · LangChain
-
-**Focus:** AI Engineering · RAG · Developer Tools · Open Source
-
-**[View Repository](#)**
-
----
+## Currently Building
 
 ### Tazkir
 
-**Offline-first Islamic reminder and spiritual companion app.**
+**An offline-first Islamic reminder and spiritual companion.**
 
-Built as a real-world mobile product with prayer tracking, local notifications, Qibla functionality, Islamic content, backups, and privacy-focused architecture.
+Tazkir is designed around privacy, local functionality, and thoughtful daily interactions.
+
+- Prayer tracking and reflections
+- Local prayer and reminder notifications
+- Qibla compass
+- Islamic quotes, adhkar, and Q&A
+- Manual period tracking
+- Zakat tracking
+- Backup and restore
+- Offline-first architecture
+- No ads and no tracking
 
 **Stack:** React Native · Expo · TypeScript · Android
 
-**Focus:** Mobile Engineering · Product Development · Privacy · Offline-First Systems
-
-**[Website](https://mytazkir.com)** · **[View Repository](#)**
+**Website:** [mytazkir.com](https://mytazkir.com)
 
 ---
 
-### Fast Food Pro
+## What I Build
 
-**White-label restaurant ecosystem with web, mobile, kitchen, and administration platforms.**
-
-Built a multi-surface restaurant system consisting of a customer application, mobile experience, kitchen display, admin dashboard, and real-time order processing.
-
-**Stack:** Next.js · React Native · Supabase · Capacitor
-
-**Focus:** Full Stack · Mobile · Real-Time Systems · Product Engineering
-
-**[View Repository](#)**
-
----
-
-### Money Lens
-
-**RAG-powered financial analysis application.**
-
-Built a Retrieval-Augmented Generation system that processes financial documents and enables natural-language queries over statement data while surfacing structured financial insights.
-
-**Stack:** Python · RAG · Machine Learning
-
-**Focus:** AI · Financial Data · RAG · Data Analysis
-
-**[View Repository](#)**
+| Area | What I work on |
+|---|---|
+| **AI / ML** | Machine learning, RAG systems, predictive models, AI-powered applications |
+| **AI Engineering** | RAG, GraphRAG, semantic retrieval, AI agents, LLM integrations |
+| **Backend** | REST APIs, authentication, business logic, real-time systems |
+| **Databases** | PostgreSQL, Supabase, MongoDB, SQL, vector databases |
+| **Frontend** | React, Next.js, responsive product interfaces |
+| **Mobile** | React Native, Expo, Android applications |
+| **Data Science** | Data analysis, visualization, ML models, financial analysis |
+| **Systems** | C++, Linux, Assembly, operating-system concepts, system-level tooling |
+| **Tools** | Git, GitHub, Docker, Linux, Postman, VS Code |
 
 ---
 
-### Expensio
+# Featured Work
 
-**Smart personal expense management platform.**
+## GitHub Reader AI
 
-Built a full-stack expense tracker with dashboards, transaction management, budgets, categories, recurring payments, and OAuth authentication.
+**Understand GitHub repositories through AI-powered retrieval and reasoning.**
 
-**Stack:** Next.js · TypeScript · Supabase · PostgreSQL
+A GraphRAG-based repository intelligence system designed to help developers explore large codebases using natural language.
 
-**Focus:** Full Stack · Databases · Authentication · Product Development
+**Highlights**
 
-**[View Repository](#)**
+- Repository-aware semantic search
+- Graph-based retrieval
+- Multi-hop reasoning
+- Code and documentation understanding
+- Hybrid retrieval architecture
+- PostgreSQL + pgvector
 
----
+**Stack**
 
-### Stock Market Dashboard
+`Node.js` `Express` `GraphRAG` `PostgreSQL` `pgvector` `LangChain`
 
-**Real-time stock tracking and interactive market visualization platform.**
-
-Built around live market APIs with Python-based data processing and interactive visualizations for exploring financial market data.
-
-**Stack:** React · Python · APIs · Data Visualization
-
-**Focus:** Data Science · Financial Data · API Integration
-
-**[View Repository](#)**
+[View Repository →](https://github.com/abdullah2k05/github-reader-ai)
 
 ---
 
-## 🛠️ Tech Stack
+## Tazkir
+
+**An offline-first Islamic spiritual companion built around privacy and local functionality.**
+
+A mobile application combining prayer tracking, reminders, Qibla, Islamic content, personal reflections, and useful everyday tools.
+
+**Stack**
+
+`React Native` `Expo` `TypeScript` `Android`
+
+[Website →](https://mytazkir.com) · [GitHub Profile →](https://github.com/abdullah2k05)
+
+---
+
+## Fast Food Pro
+
+**A complete restaurant ordering ecosystem built across web, mobile, kitchen, and administration.**
+
+The system includes customer ordering, mobile experiences, kitchen operations, administrative controls, and real-time order processing.
+
+**Stack**
+
+`Next.js` `React` `React Native` `Supabase` `Capacitor`
+
+> Repository is currently private.
+
+---
+
+## Money Lens
+
+**Ask questions about financial information using natural language.**
+
+A financial analysis project combining document understanding, retrieval, structured data processing, and AI-powered analysis.
+
+**Stack**
+
+`Python` `RAG` `Machine Learning` `Data Analysis`
+
+[Financial RAG Repository →](https://github.com/abdullah2k05/financial_rag_model)
+
+---
+
+## Expensio
+
+**A personal finance and expense management application.**
+
+Features include transaction management, budgets, categories, recurring payments, dashboards, and authentication.
+
+**Stack**
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL`
+
+[View Repository →](https://github.com/abdullah2k05/expense-tracker)
+
+---
+
+## Stock Market Dashboard
+
+**Real-time market data brought into a practical analytics interface.**
+
+A stock tracking and visualization project focused on market APIs, data processing, and interactive analysis.
+
+**Stack**
+
+`Python` `React` `APIs` `Data Processing`
+
+[View Repository →](https://github.com/abdullah2k05/stock-market-app)
+
+---
+
+# Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-111827?style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/Assembly-111827?style=flat-square&logoColor=white"/>
+</p>
 
 ### AI / Machine Learning
 
-![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square)
-![GraphRAG](https://img.shields.io/badge/GraphRAG-111827?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111827?style=flat-square&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/RAG-111827?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphRAG-111827?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-111827?style=flat-square&logo=scikit-learn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=013243"/>
+</p>
 
-### Backend & Databases
+### Backend / Databases
 
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=092E20"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3ECF8E"/>
+<img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248"/>
+</p>
 
-### Frontend & Mobile
+### Frontend / Mobile
 
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-111827?style=flat-square&logo=react&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-111827?style=flat-square&logo=expo&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-111827?style=flat-square&logo=capacitor&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-111827?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Expo-111827?style=flat-square&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Capacitor-111827?style=flat-square&logo=capacitor&logoColor=119EFF"/>
+</p>
 
-### Tools & Engineering
+### Tools
 
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
+</p>
 
 ---
 
-## 📚 Data Science & Machine Learning
+# Data Science & Machine Learning
 
-My Data Science studies combine theoretical foundations with practical implementation.
+My academic work and practical projects cover both the foundations and application of data science.
 
-**Coursework and practical areas include:**
+### Core Areas
 
-- Supervised Learning
-- Unsupervised Learning
+- Supervised learning
+- Unsupervised learning
 - Regression
 - Classification
-- Decision Trees
-- Random Forests
-- Neural Networks
+- Decision trees
+- Random forests
+- Neural networks
 - Classical AI
-- Data Analysis
-- Data Visualization
-- Financial Data Analysis
-- Machine Learning Model Development
+- Data analysis
+- Data visualization
+- Financial data analysis
+- Predictive analytics
+- Machine learning model development
 
-I primarily use **Python, Pandas, NumPy, Scikit-learn, SQL, and visualization tools** to work with data and build analytical solutions.
+### Tools
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `SQL`
 
 ---
 
-## 🌱 Open Source
+# Systems & Software Foundations
 
-I believe the best way to improve as an engineer is to **build, share, and learn in public**.
+I am interested in understanding software below the application layer.
 
-I'm gradually open-sourcing projects I've built while documenting what I learn along the way.
+Currently exploring:
 
-Current focus:
+- Operating systems
+- Linux internals
+- Processes and threads
+- Memory and address spaces
+- System calls
+- CPU architecture
+- Assembly
+- C++
+- Debugging and low-level tooling
 
-- Building useful developer tools
-- Contributing to open-source projects
-- Improving code quality and documentation
-- Learning systems programming and Linux internals
-- Building practical AI/RAG applications
+The goal is simple:
+
+> **Don't just use abstractions. Understand what is underneath them.**
+
+---
+
+# Open Source
+
+I build and share software to learn in public and make useful things available to others.
+
+Areas I am particularly interested in:
+
+- AI and RAG systems
+- Developer tools
+- Linux and systems programming
+- Open-source documentation
+- Code quality and maintainability
+- Practical software engineering
 - Turning university concepts into real software
 
 ---
 
-## 💼 Experience
+# Experience
 
 ### Teacher Assistant — Programming Fundamentals
+**FCIT / PUCIT, Lahore**  
+`Sep 2025 – Present`
 
-**FCIT, PUCIT · Lahore**
-`Sep 2025 — Present`
-
-Assist students with **C++ fundamentals, programming concepts, and problem-solving techniques**.
-
----
-
-### Media Team Member
-
-**Pioneer Debating Society, PUCIT · Lahore**
-`Dec 2025 — Present`
-
-Contribute to media production and event coverage for university debating activities.
-
----
+Helping students understand C++ fundamentals, programming concepts, and problem-solving.
 
 ### Head of Production
+**FCIT Information & Media Society**  
+`Oct 2025 – Present`
 
-**FCIT Information & Media Society, PUCIT · Lahore**
-`Oct 2025 — Present`
-
-Lead video shoots, event production, and media campaigns while coordinating technical and creative production.
-
----
-
-### Campus Ambassador
-
-**The TalentBeacon, Pakistan**
-`Apr 2025 — Present`
-
-Represent technology and career opportunities within the university community.
-
----
-
-### Campus Ambassador
-
-**TechnoVerse CUI Lahore**
-`Apr 2025 — Present`
-
-Represent and promote the technology festival while engaging with students and the university community.
-
----
+Leading video production, event shoots, and media-related production work.
 
 ### Media Team Member
+**Pioneer Debating Society — PUCIT**  
+`Dec 2025 – Present`
 
-**PUCon, University of the Punjab**
-`Mar 2025 — Present`
+Working on media coverage and visual content for society activities.
 
-Contribute to event photography and digital media production for university activities.
+### Campus Ambassador
+**The TalentBeacon**  
+`Apr 2025 – Present`
 
----
+### Campus Ambassador
+**TechnoVerse — CUI Lahore**  
+`Apr 2025 – Present`
+
+### Media Team Member
+**PUCon — University of the Punjab**  
+`Mar 2025 – Present`
 
 ### Event Manager
-
-**FCIT NC Sports, PUCIT · Lahore**
-`Dec 2024 — Present`
-
-Help organize and manage national-level college sports competitions and related event operations.
+**FCIT NC Sports — PUCIT**  
+`Dec 2024 – Present`
 
 ---
 
-## 🎥 Media & Photography
+# Media & Photography
 
-Beyond software engineering, I have an active interest in **photography, video production, and event media**.
+Outside software, I work with photography, video production, event coverage, and visual storytelling.
 
-### Selected Activities
+My media work has included:
 
-- **PUCon '24 — Media Team Member:** Captured event photography and created digital media content for the university's flagship technology conference.
-- **FCIT Information & Media Society — Head of Production:** Led video shoots, event production, and media campaigns.
-- **TechnoVerse CUI Lahore — Campus Ambassador:** Promoted the technology festival and represented the event on campus.
-- **FCIT NC Sports — Event Manager:** Organized and managed national-level college sports competitions.
+- University events
+- Technical events
+- Sports events
+- Society productions
+- Event photography
+- Video production
 
-📷 **Photography:** [@mabdullah.dng](https://www.instagram.com/mabdullah.dng/)
+### Selected Work
+
+`PUCon` · `FCIT Media Society` · `TechnoVerse` · `FCIT NC Sports`
+
+Photography:
+
+[@mabdullah.dng](https://www.instagram.com/mabdullah.dng)
 
 ---
 
-## 🎓 Education
+# Education
 
 ### BS Data Science
-
-**Punjab University College of Information Technology (PUCIT), Lahore**
-`2024 — 2028 · Expected`
-
-Focused on Data Science, Machine Learning, Artificial Intelligence, software engineering, and practical development.
+**Punjab University College of Information Technology — PUCIT**  
+`2024 – 2028`
 
 ### Intermediate — ICS
-
-**Government Postgraduate College, Vehari**
-`2022 — 2024`
-
-**Score:** 1012 / 1200
+**Government Postgraduate College Vehari**  
+`2022 – 2024`  
+`1012 / 1200`
 
 ### Matriculation — Science
-
-**Govt. Islamia High School, Vehari**
-`2020 — 2022`
-
-**Score:** 1051 / 1100
+**Govt. Islamia High School Vehari**  
+`2020 – 2022`  
+`1051 / 1100`
 
 ---
 
-## 📜 Certifications
+# Certifications
 
-- **Relational Databases & SQL: Complete Guide for Developers**
-- **Mastering React Fundamentals: The Complete Beginner's Course**
-- **MERN Stack: All You Need to Know with Practical Project**
-
----
-
-## 📈 GitHub
-
-I prefer letting the work speak for itself.
-
-**[Explore my repositories →](https://github.com/abdullah2k05)**
+- Relational Databases & SQL: Complete Guide for Developers
+- Mastering React Fundamentals: The Complete Beginner's Course
+- MERN Stack: All You Need to Know with Practical Project
 
 ---
 
-## 🤝 Open to Opportunities
+# GitHub
 
-I'm currently open to:
+I use GitHub as both a portfolio and a learning space.
 
-- **Freelance software projects**
-- **AI / RAG development**
-- **Full-stack development**
-- **AI/ML engineering**
-- **Data Science opportunities**
-- **Internships and early-career engineering roles**
-- **Open-source collaboration**
+You'll find projects covering:
 
-If you're building something interesting or need help turning an idea into a working product:
+`AI` · `RAG` · `Data Science` · `Full-Stack Development` · `Mobile` · `C++` · `Systems` · `APIs`
 
-**[Email me](mailto:abdullah@mabdullah.top)** · **[Connect on LinkedIn](https://www.linkedin.com/in/abdullah2k05/)**
+[Explore all repositories →](https://github.com/abdullah2k05?tab=repositories)
 
 ---
 
-<p align="center">
-  <sub>Build useful things. Understand how they work. Keep improving.</sub>
-</p>
+# Open to Opportunities
+
+I'm interested in working on:
+
+- Freelance software projects
+- AI / RAG development
+- Full-stack development
+- AI/ML engineering
+- Data Science opportunities
+- Internships and early-career roles
+- Open-source collaboration
+
+If you're building something interesting and think I could contribute:
+
+**[Email me](mailto:abdullah@mabdullah.top)** · **[Connect on LinkedIn](https://www.linkedin.com/in/abdullah2k05)**
+
+---
+
+<div align="center">
+
+### Build useful things. Understand how they work. Keep improving.
+
+<br/>
+
+<a href="https://mabdullah.top">Portfolio</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/abdullah2k05">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/abdullah2k05">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:abdullah@mabdullah.top">Email</a>
+
+</div>
