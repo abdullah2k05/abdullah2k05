@@ -1,14 +1,24 @@
-# Muhammad Abdullah
+<p align="center">
+  <img src="https://github.com/abdullah2k05.png" width="150" style="border-radius: 50%;" alt="Muhammad Abdullah"/>
+</p>
 
-### Full-Stack Product Engineer · AI/ML & RAG Developer · Data Science Student
+<h1 align="center">Muhammad Abdullah</h1>
 
-I build practical software at the intersection of **AI, data, and full-stack engineering** — from RAG-powered applications and intelligent data products to scalable web, mobile, and real-time systems.
+<h3 align="center">Full-Stack Product Engineer · AI/ML & RAG Developer · Data Science Student</h3>
 
-I'm interested in understanding how systems work, building products from the ground up, and turning ideas into software that people can actually use.
+<p align="center">
+  I build practical software at the intersection of <strong>AI, data, and full-stack engineering</strong> — from RAG-powered applications and intelligent data products to scalable web, mobile, and real-time systems.
+</p>
 
-**Currently focused on:** AI Engineering · RAG Systems · Data Science · Full-Stack Development · Systems Programming · Open Source
+<p align="center">
+  I'm interested in understanding how systems work, building products from the ground up, and turning ideas into software that people can actually use.
+</p>
 
-<p>
+<p align="center">
+  <strong>Currently focused on:</strong> AI Engineering · RAG Systems · Data Science · Full-Stack Development · Systems Programming · Open Source
+</p>
+
+<p align="center">
   <a href="https://mabdullah.top">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/abdullah2k05/">LinkedIn</a> ·
   <a href="mailto:abdullah@mabdullah.top">Email</a> ·
@@ -226,7 +236,7 @@ Current focus:
 
 ### Teacher Assistant — Programming Fundamentals
 
-**FCIT, PUCIT · Lahore**  
+**FCIT, PUCIT · Lahore**
 `Sep 2025 — Present`
 
 Assist students with **C++ fundamentals, programming concepts, and problem-solving techniques**.
@@ -235,7 +245,7 @@ Assist students with **C++ fundamentals, programming concepts, and problem-solvi
 
 ### Media Team Member
 
-**Pioneer Debating Society, PUCIT · Lahore**  
+**Pioneer Debating Society, PUCIT · Lahore**
 `Dec 2025 — Present`
 
 Contribute to media production and event coverage for university debating activities.
@@ -244,7 +254,7 @@ Contribute to media production and event coverage for university debating activi
 
 ### Head of Production
 
-**FCIT Information & Media Society, PUCIT · Lahore**  
+**FCIT Information & Media Society, PUCIT · Lahore**
 `Oct 2025 — Present`
 
 Lead video shoots, event production, and media campaigns while coordinating technical and creative production.
@@ -253,7 +263,7 @@ Lead video shoots, event production, and media campaigns while coordinating tech
 
 ### Campus Ambassador
 
-**The TalentBeacon, Pakistan**  
+**The TalentBeacon, Pakistan**
 `Apr 2025 — Present`
 
 Represent technology and career opportunities within the university community.
@@ -262,7 +272,7 @@ Represent technology and career opportunities within the university community.
 
 ### Campus Ambassador
 
-**TechnoVerse CUI Lahore**  
+**TechnoVerse CUI Lahore**
 `Apr 2025 — Present`
 
 Represent and promote the technology festival while engaging with students and the university community.
@@ -271,7 +281,7 @@ Represent and promote the technology festival while engaging with students and t
 
 ### Media Team Member
 
-**PUCon, University of the Punjab**  
+**PUCon, University of the Punjab**
 `Mar 2025 — Present`
 
 Contribute to event photography and digital media production for university activities.
@@ -280,7 +290,7 @@ Contribute to event photography and digital media production for university acti
 
 ### Event Manager
 
-**FCIT NC Sports, PUCIT · Lahore**  
+**FCIT NC Sports, PUCIT · Lahore**
 `Dec 2024 — Present`
 
 Help organize and manage national-level college sports competitions and related event operations.
@@ -306,21 +316,21 @@ Beyond software engineering, I have an active interest in **photography, video p
 
 ### BS Data Science
 
-**Punjab University College of Information Technology (PUCIT), Lahore**  
+**Punjab University College of Information Technology (PUCIT), Lahore**
 `2024 — 2028 · Expected`
 
 Focused on Data Science, Machine Learning, Artificial Intelligence, software engineering, and practical development.
 
 ### Intermediate — ICS
 
-**Government Postgraduate College, Vehari**  
+**Government Postgraduate College, Vehari**
 `2022 — 2024`
 
 **Score:** 1012 / 1200
 
 ### Matriculation — Science
 
-**Govt. Islamia High School, Vehari**  
+**Govt. Islamia High School, Vehari**
 `2020 — 2022`
 
 **Score:** 1051 / 1100
