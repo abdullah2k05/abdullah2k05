@@ -1,3 +1,9 @@
+<!-- ═══════════════════════════════════════════════════════════
+     Muhammad Abdullah — GitHub Profile
+     Repo: abdullah2k05/abdullah2k05
+     Theme: dark editorial · accent #58A6FF / #7CFFB2
+     ═══════════════════════════════════════════════════════════ -->
+
 <p align="center">
   <img
     src="./assets/particle-hero.gif"
@@ -37,7 +43,10 @@
 - [Experience](#-experience)
 - [Media & Photography](#-media--photography)
 - [Certificates](#-certificates)
-- [Stats & Activity](#-stats--github-activity)
+- [Contribution Activity](#-contribution-activity)
+- [Coding Activity](#️-coding-activity)
+- [Stats & GitHub Activity](#-stats--github-activity)
+- [Guestbook](#️-guestbook)
 - [Goals](#-goals)
 - [Contact](#-contact)
 
@@ -59,7 +68,7 @@ Beyond code, I lead teams, mentor juniors as a **Teacher Assistant**, and captur
 
 ## 🚧 Currently Building
 
-### Tazkir
+### 🕌 Tazkir
 
 **An offline-first Islamic reminder and spiritual companion.**
 
@@ -402,6 +411,25 @@ My media work has included:
 
 ---
 
+## 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah2k05/abdullah2k05/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullah2k05/abdullah2k05/output/github-snake.svg" />
+  <img alt="Snake animation eating contribution graph" src="https://raw.githubusercontent.com/abdullah2k05/abdullah2k05/output/github-snake.svg" width="100%" />
+</picture>
+
+---
+
+## ⏱️ Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+> 📊 Stats above are pulled automatically from [WakaTime](https://wakatime.com) and refreshed daily via GitHub Actions.
+
+---
+
 ## 📊 Stats & GitHub Activity
 
 <p align="center">
@@ -412,6 +440,15 @@ My media work has included:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah2k05&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 🖊️ Guestbook
+
+<!--START_SECTION:guestbook-->
+<!--END_SECTION:guestbook-->
+
+> ✍️ Leave a message by [opening a new issue](https://github.com/abdullah2k05/abdullah2k05/issues/new?title=GUEST_BOOK_ENTRY:&body=Write%20your%20message%20here).
 
 ---
 
@@ -450,5 +487,15 @@ My media work has included:
 <div align="center">
 
 ### Build useful things. Understand how they work. Keep improving.
+
+<br/>
+
+<a href="https://mabdullah.top">Portfolio</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/abdullah2k05">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/abdullah2k05">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:abdullah@mabdullah.top">Email</a>
 
 </div>
