@@ -1,24 +1,203 @@
-# 💫 About Me:
-<br>I'm a Data Science student and developer focused on building practical software with AI/ML, RAG systems, data, and full-stack technologies.<br><br>I enjoy turning ideas into working products — from AI-powered applications and developer tools to mobile and web apps. I care about understanding how things work under the hood, writing maintainable code, and continuously improving through real projects.<br><br>Currently, I'm exploring AI engineering, RAG, data science, systems programming, and open-source development while building and shipping projects that solve real problems.<br><br>Learn continuously. Build deliberately. Ship what matters.
+# Muhammad Abdullah
 
+### Data Science Student · AI/ML & RAG Developer · Full-Stack Engineer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mabdullah.dng) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah2k05) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdullah_2k05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chribalc64@gmail.com) 
+I build practical software at the intersection of **AI, data, and full-stack engineering** — from RAG-powered applications and developer tools to mobile and web products.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abdullak2k05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=abdullak2k05&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdullak2k05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I'm interested in understanding how systems work, building things from the ground up, and turning ideas into software that people can actually use.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdullak2k05&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abdullak2k05&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Currently focused on:** AI Engineering · RAG Systems · Data Science · Full-Stack Development · Systems Programming · Open Source
 
 ---
-[![](https://komarev.com/ghpvc/?username=abdullak2k05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Currently Building
+
+### Tazkir — Islamic Reminder & Spiritual Companion
+
+An offline-first mobile application designed around daily reminders, prayer tracking, Qibla, adhkar, Islamic content, and personal reflection.
+
+- Built with React Native, Expo, and TypeScript
+- Offline-first architecture with local notifications
+- Designed and shipped for Android
+- Focused on privacy, simplicity, and minimal dependencies
+
+**[Live Website](https://mytazkir.com)** · **[View Repository](#)**
+
+---
+
+## 🧠 What I Build
+
+| Area | What I Work With |
+|---|---|
+| **AI / RAG** | RAG pipelines, embeddings, LLM APIs, AI-powered applications |
+| **Data** | Python, Pandas, NumPy, SQL, data analysis & visualization |
+| **Full Stack** | React, TypeScript, JavaScript, Node.js, Express, MongoDB |
+| **Mobile** | React Native, Expo, Android |
+| **Systems** | C++, Linux, Assembly, operating-system concepts |
+| **Engineering** | REST APIs, authentication, Git, testing, open-source development |
+
+---
+
+## ⭐ Featured Work
+
+### GitHub Reader AI
+
+**AI-powered GitHub repository analysis and exploration.**
+
+Built to make large repositories easier to understand by combining repository data, AI, embeddings, and RAG-based retrieval.
+
+**Focus:** AI · RAG · LLMs · Full Stack · Open Source
+
+**[View Repository](#)**
+
+---
+
+### Tazkir
+
+**An offline-first Islamic reminder and spiritual companion app.**
+
+Built as a real-world mobile product with local notifications, prayer tracking, Qibla functionality, Islamic content, backups, and privacy-focused architecture.
+
+**Focus:** React Native · Expo · TypeScript · Android · Product Engineering
+
+**[Website](https://mytazkir.com)** · **[View Repository](#)**
+
+---
+
+### Money Lens
+
+**A data-driven personal finance application.**
+
+Built to explore financial data, analysis, and intelligent features through a full-stack application.
+
+**Focus:** Data · AI · Full Stack · Product Development
+
+**[View Repository](#)**
+
+---
+
+### Govn Bills
+
+**A utility bill management application for Pakistan.**
+
+Designed around quick provider selection, reference IDs, bill information, reports, and notifications without requiring traditional account creation.
+
+**Focus:** React Native · APIs · Android · Product Development
+
+**[View Repository](https://github.com/abdullah2k05/govern-bill-manager-app)**
+
+---
+
+### ProcPeek
+
+**A Linux process inspection tool built to learn systems programming from the ground up.**
+
+A hands-on C++ project exploring processes, `/proc`, system calls, memory, filesystems, and Linux internals.
+
+**Focus:** C++ · Linux · Operating Systems · Systems Programming
+
+**[View Repository](#)**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=white)
+
+### AI / Data
+
+![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square)
+![LLM Applications](https://img.shields.io/badge/LLM_Applications-111827?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=white)
+
+### Full Stack
+
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white)
+
+---
+
+## 📌 Open Source
+
+I believe the best way to improve as an engineer is to **build, share, and learn in public**.
+
+I'm gradually open-sourcing projects that I've built while documenting what I learn along the way.
+
+Current focus:
+
+- Building useful developer tools
+- Contributing to open-source projects
+- Improving code quality and documentation
+- Learning systems programming and Linux internals
+- Building practical AI/RAG applications
+
+---
+
+## 🎓 Education
+
+**BS Data Science — FCIT, University of the Punjab**
+
+`2024 — 2028`
+
+Currently studying data science while building projects across AI, software engineering, web development, and systems programming.
+
+---
+
+## 💼 Experience
+
+### Teacher Assistant — FCIT
+
+Supporting students while developing stronger communication, technical, and problem-solving skills.
+
+### Head of Production — FCIT Information & Media Society
+
+Working on technical and creative production within a university organization.
+
+### Campus Ambassador — TalentBeacon
+
+Representing and promoting technology and career opportunities within the university.
+
+---
+
+## 📈 GitHub
+
+I prefer letting the work speak for itself.
+
+**[Explore my repositories →](https://github.com/abdullah2k05)**
+
+---
+
+## 🤝 Open to Opportunities
+
+I'm currently open to:
+
+- **Freelance software projects**
+- **AI / RAG development**
+- **Full-stack development**
+- **Internships and early-career engineering roles**
+- **Open-source collaboration**
+
+If you're building something interesting or need help turning an idea into a working product:
+
+**[Email me](mailto:abdullah@mabdullah.top)** · **[Connect on LinkedIn](https://www.linkedin.com/in/abdullah2k05/)**
+
+---
+
+<p align="center">
+  <sub>Build useful things. Understand how they work. Keep improving.</sub>
+</p>
