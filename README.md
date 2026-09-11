@@ -16,9 +16,9 @@
 
 <p align="center">
   <a href="https://mabdullah.top">Portfolio</a>
-  ·
+  &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/abdullah2k05">LinkedIn</a>
-  ·
+  &nbsp; · &nbsp;
   <a href="mailto:abdullah@mabdullah.top">Email</a>
 </p>
 
@@ -30,7 +30,7 @@
 
 **An offline-first Islamic reminder and spiritual companion.**
 
-Tazkir is designed around privacy, local functionality, and thoughtful daily interactions.
+Tazkir is designed around privacy, local functionality, and thoughtful daily interactions rather than cloud-dependent features.
 
 - Prayer tracking and reflections
 - Local prayer and reminder notifications
@@ -42,7 +42,7 @@ Tazkir is designed around privacy, local functionality, and thoughtful daily int
 - Offline-first architecture
 - No ads and no tracking
 
-**Stack:** React Native · Expo · TypeScript · Android
+**Stack:** `React Native` `Expo` `TypeScript` `Android`
 
 **Website:** [mytazkir.com](https://mytazkir.com)
 
@@ -50,17 +50,16 @@ Tazkir is designed around privacy, local functionality, and thoughtful daily int
 
 ## What I Build
 
-| Area | What I work on |
+| Area | Focus |
 |---|---|
-| **AI / ML** | Machine learning, RAG systems, predictive models, AI-powered applications |
+| **AI / ML** | Machine learning, predictive models, AI-powered applications |
 | **AI Engineering** | RAG, GraphRAG, semantic retrieval, AI agents, LLM integrations |
 | **Backend** | REST APIs, authentication, business logic, real-time systems |
 | **Databases** | PostgreSQL, Supabase, MongoDB, SQL, vector databases |
 | **Frontend** | React, Next.js, responsive product interfaces |
 | **Mobile** | React Native, Expo, Android applications |
-| **Data Science** | Data analysis, visualization, ML models, financial analysis |
+| **Data Science** | Data analysis, visualization, predictive analytics, financial analysis |
 | **Systems** | C++, Linux, Assembly, operating-system concepts, system-level tooling |
-| **Tools** | Git, GitHub, Docker, Linux, Postman, VS Code |
 
 ---
 
@@ -70,7 +69,7 @@ Tazkir is designed around privacy, local functionality, and thoughtful daily int
 
 **Understand GitHub repositories through AI-powered retrieval and reasoning.**
 
-A GraphRAG-based repository intelligence system designed to help developers explore large codebases using natural language.
+A GraphRAG-based repository intelligence system for exploring large codebases through natural-language queries.
 
 **Highlights**
 
@@ -81,9 +80,7 @@ A GraphRAG-based repository intelligence system designed to help developers expl
 - Hybrid retrieval architecture
 - PostgreSQL + pgvector
 
-**Stack**
-
-`Node.js` `Express` `GraphRAG` `PostgreSQL` `pgvector` `LangChain`
+**Stack:** `Node.js` `Express` `GraphRAG` `PostgreSQL` `pgvector` `LangChain`
 
 [View Repository →](https://github.com/abdullah2k05/github-reader-ai)
 
@@ -93,27 +90,23 @@ A GraphRAG-based repository intelligence system designed to help developers expl
 
 **An offline-first Islamic spiritual companion built around privacy and local functionality.**
 
-A mobile application combining prayer tracking, reminders, Qibla, Islamic content, personal reflections, and useful everyday tools.
+A mobile application combining prayer tracking, reminders, Qibla, Islamic content, personal reflections, and everyday Islamic tools.
 
-**Stack**
+**Stack:** `React Native` `Expo` `TypeScript` `Android`
 
-`React Native` `Expo` `TypeScript` `Android`
-
-[Website →](https://mytazkir.com) · [GitHub Profile →](https://github.com/abdullah2k05)
+[Visit Website →](https://mytazkir.com)
 
 ---
 
 ## Fast Food Pro
 
-**A complete restaurant ordering ecosystem built across web, mobile, kitchen, and administration.**
+**A complete restaurant ordering ecosystem across web, mobile, kitchen, and administration.**
 
-The system includes customer ordering, mobile experiences, kitchen operations, administrative controls, and real-time order processing.
+The system brings customer ordering, mobile experiences, kitchen operations, administrative controls, and real-time order processing into one product ecosystem.
 
-**Stack**
+**Stack:** `Next.js` `React` `React Native` `Supabase` `Capacitor`
 
-`Next.js` `React` `React Native` `Supabase` `Capacitor`
-
-> Repository is currently private.
+> Private project.
 
 ---
 
@@ -123,11 +116,9 @@ The system includes customer ordering, mobile experiences, kitchen operations, a
 
 A financial analysis project combining document understanding, retrieval, structured data processing, and AI-powered analysis.
 
-**Stack**
+**Stack:** `Python` `RAG` `Machine Learning` `Data Analysis`
 
-`Python` `RAG` `Machine Learning` `Data Analysis`
-
-[Financial RAG Repository →](https://github.com/abdullah2k05/financial_rag_model)
+[View Repository →](https://github.com/abdullah2k05/financial_rag_model)
 
 ---
 
@@ -137,9 +128,7 @@ A financial analysis project combining document understanding, retrieval, struct
 
 Features include transaction management, budgets, categories, recurring payments, dashboards, and authentication.
 
-**Stack**
-
-`Next.js` `TypeScript` `Supabase` `PostgreSQL`
+**Stack:** `Next.js` `TypeScript` `Supabase` `PostgreSQL`
 
 [View Repository →](https://github.com/abdullah2k05/expense-tracker)
 
@@ -151,9 +140,7 @@ Features include transaction management, budgets, categories, recurring payments
 
 A stock tracking and visualization project focused on market APIs, data processing, and interactive analysis.
 
-**Stack**
-
-`Python` `React` `APIs` `Data Processing`
+**Stack:** `Python` `React` `APIs` `Data Processing`
 
 [View Repository →](https://github.com/abdullah2k05/stock-market-app)
 
@@ -164,55 +151,55 @@ A stock tracking and visualization project focused on market APIs, data processi
 ### Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=cplusplus&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/Assembly-111827?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" alt="SQL" />
+  <img src="https://img.shields.io/badge/Assembly-111827?style=flat-square&logoColor=FFFFFF" alt="Assembly" />
 </p>
 
 ### AI / Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/RAG-111827?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/GraphRAG-111827?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-111827?style=flat-square&logo=scikit-learn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=150458"/>
-<img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=013243"/>
+  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/GraphRAG-111827?style=flat-square" alt="GraphRAG" />
+  <img src="https://img.shields.io/badge/Scikit--learn-111827?style=flat-square&logo=scikit-learn&logoColor=F7931E" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=150458" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=013243" alt="NumPy" />
 </p>
 
 ### Backend / Databases
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=092E20"/>
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3ECF8E"/>
-<img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />
+  <img src="https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=092E20" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
 </p>
 
 ### Frontend / Mobile
 
 <p>
-<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-111827?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Expo-111827?style=flat-square&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Capacitor-111827?style=flat-square&logo=capacitor&logoColor=119EFF"/>
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Native-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-111827?style=flat-square&logo=expo&logoColor=FFFFFF" alt="Expo" />
+  <img src="https://img.shields.io/badge/Capacitor-111827?style=flat-square&logo=capacitor&logoColor=119EFF" alt="Capacitor" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=FF6C37"/>
-<img src="https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" />
 </p>
 
 ---
@@ -259,8 +246,6 @@ Currently exploring:
 - C++
 - Debugging and low-level tooling
 
-The goal is simple:
-
 > **Don't just use abstractions. Understand what is underneath them.**
 
 ---
@@ -284,36 +269,43 @@ Areas I am particularly interested in:
 # Experience
 
 ### Teacher Assistant — Programming Fundamentals
+
 **FCIT / PUCIT, Lahore**  
 `Sep 2025 – Present`
 
 Helping students understand C++ fundamentals, programming concepts, and problem-solving.
 
 ### Head of Production
+
 **FCIT Information & Media Society**  
 `Oct 2025 – Present`
 
 Leading video production, event shoots, and media-related production work.
 
 ### Media Team Member
+
 **Pioneer Debating Society — PUCIT**  
 `Dec 2025 – Present`
 
 Working on media coverage and visual content for society activities.
 
 ### Campus Ambassador
+
 **The TalentBeacon**  
 `Apr 2025 – Present`
 
 ### Campus Ambassador
+
 **TechnoVerse — CUI Lahore**  
 `Apr 2025 – Present`
 
 ### Media Team Member
+
 **PUCon — University of the Punjab**  
 `Mar 2025 – Present`
 
 ### Event Manager
+
 **FCIT NC Sports — PUCIT**  
 `Dec 2024 – Present`
 
@@ -345,15 +337,18 @@ Photography:
 # Education
 
 ### BS Data Science
+
 **Punjab University College of Information Technology — PUCIT**  
 `2024 – 2028`
 
 ### Intermediate — ICS
+
 **Government Postgraduate College Vehari**  
 `2022 – 2024`  
 `1012 / 1200`
 
 ### Matriculation — Science
+
 **Govt. Islamia High School Vehari**  
 `2020 – 2022`  
 `1051 / 1100`
@@ -382,7 +377,7 @@ You'll find projects covering:
 
 # Open to Opportunities
 
-I'm interested in working on:
+I'm interested in:
 
 - Freelance software projects
 - AI / RAG development
@@ -394,7 +389,8 @@ I'm interested in working on:
 
 If you're building something interesting and think I could contribute:
 
-**[Email me](mailto:abdullah@mabdullah.top)** · **[Connect on LinkedIn](https://www.linkedin.com/in/abdullah2k05)**
+**[Email me](mailto:abdullah@mabdullah.top)**  
+**[Connect on LinkedIn](https://www.linkedin.com/in/abdullah2k05)**
 
 ---
 
