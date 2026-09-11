@@ -12,33 +12,19 @@
 
 ---
 
-## 🧭 Table of Contents
-- [About Me](#-about-me)
-- [Education](#-education)
-- [Technical Skills](#️-technical-skills)
-- [Projects](#-projects)
-- [Experience](#-experience)
-- [Certificates](#-certificates)
-- [Stats & Activity](#-stats--github-activity)
-- [Contact](#-contact)
+## About Me
 
----
-
-## 🧭 About Me
-
-**Muhammad Abdullah** — Data Science Student & MERN Stack Developer based in **Lahore, Punjab, Pakistan**.
+**Muhammad Abdullah** — Data Science Student & Full-Stack Developer based in **Lahore, Pakistan**.
 
 > _"Learn continuously, grow consistently, and build fearlessly."_
 
-I'm a passionate **BS Data Science student at PUCIT** and **Founder of [SMM Rival](https://smmrival.com)** — a digital marketing agency specializing in brand scaling and strategic automation. I build AI-driven, full-stack solutions and love blending data intelligence with clean web engineering.
+I'm a **BS Data Science student at PUCIT** and **Founder of [SMM Rival](https://smmrival.com)** — a digital marketing agency specializing in brand scaling and strategic automation. I build AI-driven, full-stack solutions and love blending data intelligence with clean web engineering.
 
 Beyond code, I lead teams, mentor juniors as a **Teacher Assistant**, and capture the world through my lens as a **mobile photographer**.
 
-🌐 **Portfolio:** [mabdullah.top](https://mabdullah.top) &nbsp;|&nbsp; 📞 **+92 301 6917982**
-
 ---
 
-## 🎓 Education
+## Education
 
 | Year | Degree | Institution | Score |
 |------|--------|-------------|-------|
@@ -48,7 +34,7 @@ Beyond code, I lead teams, mentor juniors as a **Teacher Assistant**, and captur
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages**
 
@@ -77,7 +63,7 @@ Beyond code, I lead teams, mentor juniors as a **Teacher Assistant**, and captur
 
 ---
 
-## 📂 Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -91,7 +77,7 @@ Beyond code, I lead teams, mentor juniors as a **Teacher Assistant**, and captur
 
 ---
 
-## 💼 Experience
+## Experience
 
 **🚀 Chief Executive Officer — [SMM Rival](https://smmrival.com)** *(2023–Present)*
 > Leading a digital marketing agency focused on brand scaling and strategic automation. Vehari / Remote.
@@ -110,7 +96,7 @@ Beyond code, I lead teams, mentor juniors as a **Teacher Assistant**, and captur
 
 ---
 
-## 🏅 Certificates
+## Certificates
 
 - 🗄️ **Relational Databases & SQL** — Complete Guide for Developers
 - ⚛️ **Mastering React Fundamentals** — The Complete Beginner's Course
@@ -118,7 +104,7 @@ Beyond code, I lead teams, mentor juniors as a **Teacher Assistant**, and captur
 
 ---
 
-## 📊 Stats & GitHub Activity
+## Stats & GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullah2k05&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -131,7 +117,7 @@ Beyond code, I lead teams, mentor juniors as a **Teacher Assistant**, and captur
 
 ---
 
-## 📬 Contact
+## Contact
 
 | Platform | Link |
 |----------|------|
@@ -140,10 +126,9 @@ Beyond code, I lead teams, mentor juniors as a **Teacher Assistant**, and captur
 | 💼 LinkedIn | [linkedin.com/in/abdullah2k05](https://linkedin.com/in/abdullah2k05) |
 | 📸 Instagram | [@mabdullah.dng](https://instagram.com/mabdullah.dng) |
 
-
 ---
 
-## 🎯 Goals
+## Goals
 
 - [x] Learn Node.js & Express.js
 - [x] Build REST APIs
