@@ -1,32 +1,26 @@
-<div align="center">
-
-<a href="https://github.com/abdullah2k05">
-  <img src="https://github.com/abdullah2k05.png?size=600" width="220" alt="Muhammad Abdullah"/>
-</a>
-
 # Muhammad Abdullah
 
 ### Full-Stack Product Engineer · AI/ML & RAG Developer · Data Science Student
 
-I build practical software at the intersection of **AI, data, and full-stack engineering**.
+<p align="center">
+  <img
+    src="./assets/particle-hero.gif"
+    width="900"
+    alt="Muhammad Abdullah — particle portrait with subtle data movement"
+  />
+</p>
 
-I enjoy understanding how systems work, turning ideas into useful products, and learning by building things from the ground up.
+<p align="center">
+  I build practical software at the intersection of AI, data, and full-stack engineering.
+</p>
 
-<br/>
-
-<a href="https://mabdullah.top">
-  <img src="https://img.shields.io/badge/Portfolio-mabdullah.top-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/abdullah2k05">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Abdullah-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:abdullah@mabdullah.top">
-  <img src="https://img.shields.io/badge/Email-abdullah%40mabdullah.top-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://mabdullah.top">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/abdullah2k05">LinkedIn</a>
+  ·
+  <a href="mailto:abdullah@mabdullah.top">Email</a>
+</p>
 
 ---
 
